@@ -1,11 +1,11 @@
 {
     "name": "CodexTheme v0.1",
     "description": "uh",
-	"authors": [
-      {
-         "name": "Auri",
-         "id": "392450859646189570"
-      }
+    "authors": [
+        {
+            "name": "Auri",
+            "id": "392450859646189570"
+        }
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
@@ -97,11 +97,11 @@
             "#0a2848",
             "#dcddde",
             "#000000"
-        ],			
+        ],
         "CHANNELS_DEFAULT": [
             "#575a68",
             "#575a68",
-            "#575a68"			
+            "#575a68"
         ],
         "CHANNEL_ICON": [
             "#2780E64d",
@@ -113,7 +113,7 @@
             "#00000099",
             "#00000099"
         ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#81b6ef",
             "#81b6ef",
             "#81b6ef"
@@ -451,12 +451,12 @@
         "icons": {
             "ic_mic_neutral": "#102b47",
             "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
+            "ic_soundboard": "#102b47",
             "ic_soundboard_muted": "#102b47",
             "ic_video": "#102b47",
             "ic_video_disabled": "#102b47"
         },
-        "iconpack":"rosiecord-plumpy"
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
-            }
+}
